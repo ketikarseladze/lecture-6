@@ -1,0 +1,286 @@
+header {
+	background-color: darkgray;
+/*	position: fixed;
+	width: 100%;*/
+}
+
+body {
+	background-color: #F1F1F1;
+}
+
+.container {
+	width: 1100px;
+	margin: 0 auto;
+}
+
+nav {
+	display: inline-block;
+}
+
+li {
+	display: inline-block;
+}
+
+li a {
+	color: #000;
+	font-family: Roboto;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-right: 35px;
+} 
+
+.profile {
+	vertical-align: middle;
+	padding: 15px 0;
+}
+
+
+div p {
+	margin-top: 42px;
+	margin-bottom: 27px;
+	color: #000;
+	font-family: Roboto;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.photo {
+	display: inline-block;
+/*	margin-right: 40px;*/
+}
+
+.box {
+	display: inline-block;
+	width: 362px;
+	height: 171px;
+	background-color: #FFF;
+	position: relative;
+}
+
+.text {
+	position: absolute;
+	top: 68px;
+	left: 37px;
+/*	top: 50%;
+	left: 50%;
+	transform: translate(-50px, -50px);*/
+}
+
+.clock {
+	position: absolute;
+	top: 118px;
+	left: 40px;
+}
+
+.h1 {
+	position: absolute;
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	top: 118px;
+	left: 67px;
+}
+
+.hp {
+	color: #000;
+	font-family: Roboto;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: normal;
+}
+
+.banners {
+	display: inline-block;
+	width: 800px;
+}
+
+.banner {
+	margin-bottom: 42px;
+}
+
+.nature {
+	display: inline-block;
+	width: 290px;
+}
+
+.photo01 {
+	margin-bottom: 98px;
+
+}
+
+.footerbox {
+	width: 1440px;
+	height: 301px;
+	background: #243043;
+	position: relative;
+}
+
+.p1 {
+	position: absolute;
+	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	top: 59px;
+	left: 137px;
+}
+
+.p2 {
+	position: absolute;
+	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	top: 87px;
+	left: 137px;
+}
+
+.p3 {
+	position: absolute;
+	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	top: 115px;
+	left: 137px;
+}
+
+.p4 {
+	position: absolute;
+	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	top: 143px;
+	left: 137px;
+}
+
+.p5 {
+	position: absolute;
+	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	top: 59px;
+	left: 266px;
+}
+
+.p6 {
+	position: absolute;
+	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	top: 87px;
+	left: 266px;
+}
+
+.p7 {
+	position: absolute;
+	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	top: 115px;
+	left: 266px;
+}
+
+.p8 {
+	position: absolute;
+	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	top: 143px;
+	left: 266px;
+}
+
+.p9 {
+	position: absolute;
+	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	top: 59px;
+	left: 417px;
+}
+
+.p10 {
+	position: absolute;
+	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	top: 87px;
+	left: 417px;
+}
+
+.p11 {
+	position: absolute;
+	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	top: 115px;
+	left: 417px;
+}
+
+.p12 {
+	position: absolute;
+	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	top: 143px;
+	left: 417px;
+}
+
+.p13 {
+	position: absolute;
+	color: #FFF;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	top: 59px;
+	left: 599px;
+}
+
+.logo {
+	position: absolute;
+	top: 100px;
+	left: 1064px;
+}
